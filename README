@@ -1,0 +1,8 @@
+Tic Tac Toe: BFS AI vs Random Agent
+
+This is a simple implementation of a Tic Tac Toe game where Player X (AI) uses a Breadth-First Search (BFS) algorithm to make optimal moves, while Player O is a random agent that selects its moves randomly.
+
+Features:
+Player X (AI): Uses BFS to explore all possible moves and choose the best one.
+Player O (Random Agent): Chooses a random available position for its move.
+Game Over Conditions: The game ends when a player wins or when the board is full, resulting in a tie.
